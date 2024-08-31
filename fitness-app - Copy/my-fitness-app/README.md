@@ -11,26 +11,27 @@ The **Fitness Monitoring System** is a React application integrated with Firebas
    ```bash
    git clone https://github.com/your-username/fitness-monitoring-system.git
    cd fitness-monitoring-system
+   ```
 ## Install Dependencies
  ```bash
 npm install
-
+```
 ## Usage
 Navigate to the src folder.
 
 Open your terminal and run:
 ```bash
 npm start
-
-###Contributing
+```
+## Contributing
 We welcome contributions to improve the Fitness Monitoring System. To contribute:
 
-Fork the repository.
+### Fork the repository.
 
-Create a new branch:git checkout -b feature/YourFeature
-Commit your changes:git commit -am 'Add new feature'
-Push the branch:git push origin feature/YourFeature
-Open a pull request to merge your changes into the main branch.
++ Create a new branch:git checkout -b feature/YourFeature
++ Commit your changes:git commit -am 'Add new feature'
++ Push the branch:git push origin feature/YourFeature
++ Open a pull request to merge your changes into the main branch.
 
-##Project Status
+## Project Status
 This project is currently in development. We are working on adding new features and improving the system.
